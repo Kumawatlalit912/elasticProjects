@@ -1,0 +1,11 @@
+{
+    "elastic": {
+      "cloudID": "paste your deployment name:cloud id details here",
+      "username": "elastic",
+      "password": "paste your password here",
+      "apiKey": "paste your API key here"
+    }
+}
+   
+   
+   
